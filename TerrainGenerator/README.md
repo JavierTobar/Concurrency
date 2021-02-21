@@ -16,4 +16,6 @@ However, we want to do this with concurrency to improve performance.
 
 Thus, we have multiple threads modifying the same terrain and they cannot collide with each other but they must be able to run concurrently.
 
-![Terrain Sample] (outputimage.png?raw=true)
+Example of generated terrain 
+
+![Terrain Sample](outputimage.png?raw=true)
